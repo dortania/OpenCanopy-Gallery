@@ -27,7 +27,7 @@
 - Misc -> Boot -> PickerVariant: chris1111\OnLight
 
 - Default backgroud is 1080p
-- Differant screen see ➤ [Background Collections](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Gallery.md#downloads-background-collections-for-all-themes-%EF%B8%8E) all the backgrounds have been created for several screen sizes
+- Differant screen see ➤ [Background Collections](https://github.com/chris1111/OpenCanopy-Gallery/blob/main/chris1111.md#%EF%B8%8E-background-collections-%EF%B8%8E) all the backgrounds have been created for several screen sizes
 - 
 ### ⬇︎ View Boot screen and Downloads Themes for OpenCore 0.7.0 and higher
 
