@@ -23,7 +23,7 @@
 
 ### ⬇︎ 
 - Use this Themes with PickerVariant
-- Setup PickerVariant config.plist (OnLight themes as exemple) ☞ See config.plist
+- Setup PickerVariant config.plist (OnLight themes as exemple) ☞ [See config.plist](https://user-images.githubusercontent.com/6248794/118682984-f5ce0e00-b7ce-11eb-8e3c-52055b213607.png) 
 - Misc -> Boot -> PickerVariant: chris1111\OnLight
 
 - Default backgroud is 1080p
