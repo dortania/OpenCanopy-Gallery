@@ -13,6 +13,7 @@ To contribute a theme to OpenCanopy gallery, we recommend taking a peak at how o
 Once you have a basic graps of how the repository works, we recommend users fork and clone the guide locally with a [Git Client](https://desktop.github.com) for easy of use.
 
 To build sites locally, you'll need to run the following workflow (with [NPM](https://www.npmjs.com) installed):
+
 ```sh
 # Install required dependancies
 npm install
