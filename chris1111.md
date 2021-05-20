@@ -23,6 +23,9 @@
 
 ### ⬇︎ 
 - Use this Themes with PickerVariant
+- Setup PickerVariant config.plist (OnLight themes as exemple) ☞ See config.plist
+- Misc -> Boot -> PickerVariant: chris1111\OnLight
+
 - Default backgroud is 1080p
 - Differant screen see ➤ [Background Collections](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Gallery.md#downloads-background-collections-for-all-themes-%EF%B8%8E) all the backgrounds have been created for several screen sizes
 - 
