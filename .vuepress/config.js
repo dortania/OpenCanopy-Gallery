@@ -118,6 +118,13 @@ module.exports = {
             ]
         },
         {
+            title: 'Miscellaneous',
+            collapsable: false,
+            children: [
+				'contribute',
+            ]
+        },
+        {
             title: 'Sources',
             collapsable: false,
             children: [

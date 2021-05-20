@@ -1,6 +1,6 @@
 # Prerequisites with OpenCanopy
 
-Before looking through different these to use with OpenCore, you'll need the following:
+Before looking through different themes to use with OpenCore, you'll need the following:
 
 * OpenCore setup and booting
   * For new users, see the [OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/)
@@ -15,7 +15,7 @@ Note, different OpenCore builds will support different features:
   * Power off / Reset buttons added
   * Themes are now in separate directories
 * 0.6.6 format
-  * Left and right arrows
-  * Background
+  * Left and right arrows added
+  * Background added
 * 0.5.7 format
   * Initial support
