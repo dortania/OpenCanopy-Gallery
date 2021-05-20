@@ -2,28 +2,28 @@
 
 * [Acidanthera's OcBinaryData Repo](https://github.com/acidanthera/OcBinaryData)
 
-Acidanthera themes provide sample designs on how to create themes for OpenCanopy. Currently there are three different themes, which follow the original Apple Boot Picker UI of different macOS generations: 
+Acidanthera media sets provide sample designs on how to create media sets for OpenCanopy. Currently there are three different media sets, which follow the original Apple Boot Picker UI of different macOS generations: 
 
-- Old (10.9 and older)
-- Default (since 10.10 till 10.15)
-- Modern (11 and newer)
+- Chardonnay (10.9 and older)
+- Syrah (since 10.10 till 10.15)
+- GoldenGate (11 and newer)
 
-These themes are the ones OpenCanopy is tested with and are therefore always up-to-date. Currently the resources are maintained by [@Andrey1970](https://github.com/Andrey1970AppleLife).
+These media sets are the ones OpenCanopy is tested with and are therefore always up-to-date. Currently the resources are maintained by [@Andrey1970](https://github.com/Andrey1970AppleLife).
 
 Table of Contents:
 
-* Set 1: Default
-* Set 2: Modern
-* Set 3: Old
+* Set 1: GoldenGate
+* Set 2: Syrah
+* Set 3: Chardonnay
 
-## Set 1: Default
-
-![](https://dortania.github.io/OpenCore-Post-Install/assets/img/gui.a10019ae.png)
-
-## Set 2: Modern
+## Set 1: GoldenGate
 
 ![](https://dortania.github.io/OpenCore-Post-Install/assets/img/gui-nouveau.8ad4a7b4.png)
 
-## Set 3: Old
+## Set 2: Syrah
+
+![](https://dortania.github.io/OpenCore-Post-Install/assets/img/gui.a10019ae.png)
+
+## Set 3: Chardonnay
 
 ![](https://dortania.github.io/OpenCore-Post-Install/assets/img/gui-old.53c75c16.png)

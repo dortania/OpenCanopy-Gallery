@@ -7,5 +7,5 @@ actionLink: prerequisites.md
 
 meta:
 - name: description
-  content: Collection of miscellaneous themes for OpenCore 
+  content: Collection of miscellaneous media sets for OpenCore 
 ---

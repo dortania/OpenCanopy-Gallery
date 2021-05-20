@@ -1,6 +1,6 @@
-# Contributing a theme
+# Contributing a media set
 
-To contribute a theme to OpenCanopy gallery, we recommend taking a peak at how our site is handled [on Github](https://github.com/dortania/OpenCanopy-Gallery). A basic technical break down is as follows:
+To contribute a media set to OpenCanopy gallery, we recommend taking a peak at how our site is handled [on Github](https://github.com/dortania/OpenCanopy-Gallery). A basic technical break down is as follows:
 
 * Pages are written in Markdown
   * Recommend looking at some [Markdown cheat sheets](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) to get a better idea
