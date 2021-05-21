@@ -4,16 +4,17 @@
 
 - Create 20 May 2021 
 
-
+- OnStage theme
 <p align="center">
   <img width="500" height="500" src="https://user-images.githubusercontent.com/6248794/119013277-d4068f80-b964-11eb-9c5f-03bb357b03b7.png">
 </p>
 
-
+- Tribute theme
 <p align="center">
   <img width="500" height="500" src="https://user-images.githubusercontent.com/6248794/118984309-600bbd80-b94b-11eb-8d34-9c97036f27a6.png">
 </p>
 
+- OnLight themes
 <p align="center">
   <img width="500" height="500" src="https://user-images.githubusercontent.com/6248794/118989794-4faa1180-b950-11eb-9b54-21f1f23c75fd.png">
 </p>
