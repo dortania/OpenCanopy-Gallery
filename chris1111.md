@@ -2,7 +2,14 @@
 
 - Themes for OpenCore 0.7.0 and Higher
 
-- Create 20 May 2021 
+- Create 20 May 2021
+
+
+- MetalBlack themes
+<p align="center">
+  <img width="500" height="500" src="https://user-images.githubusercontent.com/6248794/119162327-383e5780-ba28-11eb-86d4-b3363621682c.png">
+</p>
+
 
 - OnStage theme
 <p align="center">
@@ -67,6 +74,7 @@
 - View Boot screen [Lights-On](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Lights-On.png) Download ➤ [Lights-On](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Lights-On.zip)
 - View Boot screen [LosangeCollor](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/LosangeCollor.png) Download ➤ [LosangeCollor](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/LosangeCollor.zip)
 - View Boot screen [MacSteel](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/MacSteel.png) Download ➤ [MacSteel](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/MacSteel.zip)
+- View Boot screen [MetalBlack](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/MetalBlack.png) Download ➤ [MetalBlack](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/MetalBlack.zip)
 - View Boot screen [NightGlowCity](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/NightGlowCity.png) Download ➤ [NightGlowCity](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/NightGlowCity.zip)
 - View Boot screen [OCBeauty](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/OCBeauty.png) Download ➤ [OCBeauty](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/OCBeauty.zip)
 - View Boot screen [OCCloud](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/OCCloud.png) Download ➤ [OCCloud](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/OCCloud.zip)
