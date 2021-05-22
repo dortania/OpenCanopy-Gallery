@@ -114,7 +114,7 @@ module.exports = {
             children: [
 				'ocbinary',
                 'blackosx',
-				'other',
+				'chris1111',
             ]
         },
         {
