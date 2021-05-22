@@ -5,6 +5,12 @@
 - Create 20 May 2021
 
 
+- ElectricalOCPurple themes
+<p align="center">
+  <img width="500" height="500" src="https://user-images.githubusercontent.com/6248794/119238979-ea9f1900-bb13-11eb-81f5-cae4d52b665b.png">
+</p>
+
+
 - MetalBlack themes
 <p align="center">
   <img width="500" height="500" src="https://user-images.githubusercontent.com/6248794/119162327-383e5780-ba28-11eb-86d4-b3363621682c.png">
