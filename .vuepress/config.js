@@ -23,31 +23,31 @@ module.exports = {
         },]
     ],
     base: '/OpenCanopy-Gallery/',
-	
-	watch: {
-	    $page(newPage, oldPage) {
-	      if (newPage.key !== oldPage.key) {
-	        requestAnimationFrame(() => {
-	          if (this.$route.hash) {
-	            const element = document.getElementById(this.$route.hash.slice(1));
+  
+  watch: {
+      $page(newPage, oldPage) {
+        if (newPage.key !== oldPage.key) {
+          requestAnimationFrame(() => {
+            if (this.$route.hash) {
+              const element = document.getElementById(this.$route.hash.slice(1));
 
-	            if (element && element.scrollIntoView) {
-	              element.scrollIntoView();
-	            }
-	          }
-	        });
-	      }
-	    }
-	  },
-	
-	markdown: {
-		extendMarkdown: md => {
-			md.use(require('markdown-it-multimd-table'), {
-				rowspan: true,
-			});
-		}
-	},
-	
+              if (element && element.scrollIntoView) {
+                element.scrollIntoView();
+              }
+            }
+          });
+        }
+      }
+    },
+  
+  markdown: {
+    extendMarkdown: md => {
+      md.use(require('markdown-it-multimd-table'), {
+        rowspan: true,
+      });
+    }
+  },
+  
     theme: 'vuepress-theme-succinct',
     globalUIComponents: [
         'ThemeManager'
@@ -56,9 +56,9 @@ module.exports = {
     themeConfig: {
         lastUpdated: true,
         repo: 'https://github.com/dortania/OpenCanopy-Gallery',
-		docsBranch: 'main',
-		editLinks: true,
-		editLinkText: 'Help us improve this page!',
+        docsBranch: 'main',
+        editLinks: true,
+        editLinkText: 'Help us improve this page!',
         logo: 'homepage.png',
         nav: [{
             text: 'Dortania Guides',
@@ -103,25 +103,24 @@ module.exports = {
             collapsable: false,
             sidebarDepth: 1,
             children: [
-				'prerequisites',
-				
+              'prerequisites',
             ]
-
         },
         {
             title: 'Popular Theme Repos',
             collapsable: false,
+            sidebarDepth: 1,
             children: [
-				'ocbinary',
-                'blackosx',
-				'other',
+              'ocbinary',
+              'blackosx',
+              'other',
             ]
         },
         {
             title: 'Miscellaneous',
             collapsable: false,
             children: [
-				'contribute',
+              'contribute',
             ]
         },
         {
