@@ -4,95 +4,61 @@
 
 Currently available themes (all compatible with OpenCore v0.7.0):
 
-## BsxDark1_
+## Theme [Sets]: BsxDarkFence
 
-![](https://raw.githubusercontent.com/blackosx/BsxDark1_/main/preview.jpg)
+| [Light](https://github.com/blackosx/BsxDarkFenceLight1) | [LightGrey](https://github.com/blackosx/BsxDarkFenceLightGrey1) | [DarkGray](https://github.com/blackosx/BsxDarkFenceDarkGray1) |
+| :--- | :--- | :--- |
+| ![](https://raw.githubusercontent.com/blackosx/BsxDarkFenceLight1/main/preview_ui.jpg) | ![](https://raw.githubusercontent.com/blackosx/BsxDarkFenceLightGrey1/main/preview_ui.jpg) | ![](https://raw.githubusercontent.com/blackosx/BsxDarkFenceDarkGray1/main/preview_ui.jpg) |
 
-## BsxDarkFenceBlue1_
+| [Blue](https://github.com/blackosx/BsxDarkFenceBlue1) | [Green](https://github.com/blackosx/BsxDarkFenceGreen1) | [OrangeRed](https://github.com/blackosx/BsxDarkFenceOrangeRed1) |
 
-![](https://raw.githubusercontent.com/blackosx/BsxDarkFenceBlue1_/main/preview_ui.jpg)
+| ![](https://raw.githubusercontent.com/blackosx/BsxDarkFenceBlue1/main/preview_ui.jpg) | ![](https://raw.githubusercontent.com/blackosx/BsxDarkFenceGreen1/main/preview_ui.jpg) | ![](https://raw.githubusercontent.com/blackosx/BsxDarkFenceOrangeRed1/main/preview_ui.jpg) |
 
-## BsxDarkFenceDarkGray1_
+| [PinkPurple](https://github.com/blackosx/BsxDarkFencePinkPurple1) | [YellowGold](https://github.com/blackosx/BsxDarkFenceYellowGold1) | [YellowOrange](https://github.com/blackosx/BsxDarkFenceYellowOrange1) |
+| ![](https://raw.githubusercontent.com/blackosx/BsxDarkFencePinkPurple1/main/preview_ui.jpg) | ![](https://raw.githubusercontent.com/blackosx/BsxDarkFenceYellowGold1/main/preview_ui.jpg) | ![](https://raw.githubusercontent.com/blackosx/BsxDarkFenceYellowOrange1/main/preview_ui.jpg) |
 
-![](https://raw.githubusercontent.com/blackosx/BsxDarkFenceDarkGray1_/main/preview_ui.jpg)
 
-## BsxDarkFenceGreen1_
+## Theme [Sets]: BsxImac
 
-![](https://raw.githubusercontent.com/blackosx/BsxDarkFenceGreen1_/main/preview_ui.jpg)
+| [Blue](https://github.com/blackosx/BsxImacBlue) | [Green](https://github.com/blackosx/BsxImacGreen) | [Orange](https://github.com/blackosx/BsxImacOrange) |
+| :--- | :--- | :--- |
+| ![](https://raw.githubusercontent.com/blackosx/BsxImacBlue/main/preview_ui.jpg) | ![](https://raw.githubusercontent.com/blackosx/BsxImacGreen/main/preview_ui.jpg) | ![](https://raw.githubusercontent.com/blackosx/BsxImacOrange/main/preview_ui.jpg) |
 
-## BsxDarkFenceLight1_
+| [Pink](https://github.com/blackosx/BsxImacPink) | [Purple](https://github.com/blackosx/BsxImacPurple) | [Silver](https://github.com/blackosx/BsxImacSilver) |
+| ![](https://raw.githubusercontent.com/blackosx/BsxImacPink/main/preview_ui.jpg) | ![](https://raw.githubusercontent.com/blackosx/BsxImacPurple/main/preview_ui.jpg) | ![](https://raw.githubusercontent.com/blackosx/BsxImacSilver/main/preview_ui.jpg) |
 
-![](https://raw.githubusercontent.com/blackosx/BsxDarkFenceLight1_/main/preview_ui.jpg)
+| [Yellow](https://github.com/blackosx/BsxImacYellow)
+| ![](https://raw.githubusercontent.com/blackosx/BsxImacYellow/main/preview_ui.jpg)
 
-## BsxDarkFenceLightGrey1_
 
-![](https://raw.githubusercontent.com/blackosx/BsxDarkFenceLightGrey1_/main/preview_ui.jpg)
+## Theme: [BsxDark1](https://github.com/blackosx/BsxDark1)
 
-## BsxDarkFenceOrangeRed1_
+![](https://raw.githubusercontent.com/blackosx/BsxDark1/main/preview.jpg)
 
-![](https://raw.githubusercontent.com/blackosx/BsxDarkFenceOrangeRed1_/main/preview_ui.jpg)
 
-## BsxDarkFencePinkPurple1_
+## Theme: [BsxDarkSpace1](https://github.com/blackosx/BsxDarkSpace1)
 
-![](https://raw.githubusercontent.com/blackosx/BsxDarkFencePinkPurple1_/main/preview_ui.jpg)
+![](https://raw.githubusercontent.com/blackosx/BsxDarkSpace1/main/preview_ui.jpg)
 
-## BsxDarkFenceYellowGold1_
+## Theme: [BsxM1](https://github.com/blackosx/BsxM1)
 
-![](https://raw.githubusercontent.com/blackosx/BsxDarkFenceYellowGold1_/main/preview_ui.jpg)
+![](https://raw.githubusercontent.com/blackosx/BsxM1/main/preview_ui.jpg)
 
-## BsxDarkFenceYellowOrange1_
+## Theme: [BsxOc1](https://github.com/blackosx/BsxOc1)
 
-![](https://raw.githubusercontent.com/blackosx/BsxDarkFenceYellowOrange1_/main/preview_ui.jpg)
+![](https://raw.githubusercontent.com/blackosx/BsxOc1/main/preview_ui.jpg)
 
-## BsxDarkSpace1_
+## Theme: [BsxRedOldApple](https://github.com/blackosx/BsxRedOldApple)
 
-![](https://raw.githubusercontent.com/blackosx/BsxDarkSpace1_/main/preview_ui.jpg)
-
-## BsxImacBlue_
-
-![](https://raw.githubusercontent.com/blackosx/BsxImacBlue_/main/preview_ui.jpg)
-
-## BsxImacGreen_
-
-![](https://raw.githubusercontent.com/blackosx/BsxImacGreen_/main/preview_ui.jpg)
-
-## BsxImacOrange_
-
-![](https://raw.githubusercontent.com/blackosx/BsxImacOrange_/main/preview_ui.jpg)
-
-## BsxImacPink_
-
-![](https://raw.githubusercontent.com/blackosx/BsxImacPink_/main/preview_ui.jpg)
-
-## BsxImacPurple_
-
-![](https://raw.githubusercontent.com/blackosx/BsxImacPurple_/main/preview_ui.jpg)
-
-## BsxImacSilver_
-
-![](https://raw.githubusercontent.com/blackosx/BsxImacSilver_/main/preview_ui.jpg)
-
-## BsxImacYellow_
-
-![](https://raw.githubusercontent.com/blackosx/BsxImacYellow_/main/preview_ui.jpg)
-
-## BsxM1_
-
-![](https://raw.githubusercontent.com/blackosx/BsxM1_/main/preview_ui.jpg)
-
-## BsxOc1_
-
-![](https://raw.githubusercontent.com/blackosx/BsxOc1_/main/preview_ui.jpg)
-
-## BsxRedOldApple_
-
-![](https://raw.githubusercontent.com/blackosx/BsxRedOldApple_/main/preview_ui.jpg)
+![](https://raw.githubusercontent.com/blackosx/BsxRedOldApple/main/preview_ui.jpg)
 
 
 
 # OpenCanopyIcons Repo
 
 * [Blackosx' OpenCanopyIcons Repo](https://github.com/blackosx/OpenCanopyIcons)
+
+Sets of individual icons where users can 'pick and mix' to help build their own theme dirs.
 
 Table of Contents:
 
@@ -105,20 +71,20 @@ Table of Contents:
 * Set 4: Long Shadow
 * Set 5: Clean
 
-## Set 1: Flat Matte Design
+## Icon Repo [Set1]: Flat Matte
 
 | Light Background | Dark Background |
 | :--- | :--- |
 | ![](https://i.ibb.co/FXVqQtT/Set1-All-Current-Icons-Grey-BG.jpg) | ![](https://i.ibb.co/RDK9v1Z/Set1-All-Current-Icons-Black-BG.jpg) |
 
-## Set 2: Flat Reflective Design
+## Icon Repo [Set2]: Flat Reflective
 
 | Light Background | Dark Background |
 | :--- | :--- |
 | ![](https://i.ibb.co/ZTHytc4/Set2-All-Current-Icons-Grey-BG.jpg) | ![](https://i.ibb.co/Tcn05mb/Set2-All-Current-Icons-Black-BG.jpg) |
 
 
-## Set 3: Standard
+## Icon Repo [Set3]: Standard
 
 | Light Background | Dark Background |
 | :--- | :--- |
@@ -190,19 +156,19 @@ Table of Contents:
 
 :::
 
-## Set 3: Special Edition
+## Icon Repo [Set3]: SE
 
 | Silver Gold | Silver Blue |
 | :--- | :--- |
 | ![](https://github.com/blackosx/OpenCanopyIcons/blob/master/Set3/SilverGold/preview_sheet_SilverGold.jpg?raw=true) | ![](https://github.com/blackosx/OpenCanopyIcons/blob/master/Set3/SilverBlue/preview_sheet_SilverBlue.jpg?raw=true) |
 
-## Set 3: Glow
+## Icon Repo [Set3]: Glow
 
 | Light Glow | Dark Glow |
 | :--- | :--- |
 | ![](https://github.com/blackosx/OpenCanopyIcons/blob/master/Set3/LightGlow/preview_sheet_LightGlow.jpg?raw=true) | ![](https://github.com/blackosx/OpenCanopyIcons/blob/master/Set3/DarkGlow/preview_sheet_DarkGlow.jpg?raw=true) |
 
-## Set 3: Special Edition Glow
+## Icon Repo [Set3]: SE Glow
 
 | Blue Glow | Green Glow |
 | :--- | :--- |
@@ -226,7 +192,7 @@ Table of Contents:
 
 :::
 
-## Set 4: Long Shadows
+## Icon Repo [Set4]: Shadows
 
 These need attention and updating.
 
@@ -282,7 +248,7 @@ These need attention and updating.
 
 :::
 
-## Set 5: Clean
+## Icon Repo [Set5]: Clean
 
 [FlatTile (and other colour variations)](https://github.com/blackosx/OpenCanopyIcons/tree/master/Set5/FlatTile)
 
