@@ -1,4 +1,19 @@
-# Contributing a media set
+# Contributing
+
+## Developing icon sets
+
+Creating icons for OpenCanopy is actually quite simple. Once you've ensured that you've created your desired images according to [OpenCore's recommended specification](https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Configuration.pdf), you can use OpenCore's bundled [icnspack]()(Under Utilities/icnspack) to convert .png's to supported .icons:
+
+```sh
+# Example usage
+./icnspack icon-x1.png icon-x2.png
+```
+
+Additionally, chris1111 has created a great tool for users to create their own icon sets:
+
+* [OpenCanopy-Generator](https://github.com/chris1111/OpenCanopy-Generator)
+
+## Contributing a media set 
 
 To contribute a media set to OpenCanopy gallery, we recommend taking a peak at how our site is handled [on Github](https://github.com/dortania/OpenCanopy-Gallery). A basic technical break down is as follows:
 
@@ -22,3 +37,4 @@ npm run build
 ```
 
 Once you're done making changes, you can create a [pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) on our guide and have our team review the changes.
+
