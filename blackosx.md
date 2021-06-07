@@ -55,7 +55,7 @@
 
 ### Theme: [BsxDark1](https://github.com/blackosx/BsxDark1)
 
-![](https://raw.githubusercontent.com/blackosx/BsxDark1/main/preview.jpg)
+![](https://raw.githubusercontent.com/blackosx/BsxDark1/main/preview_ui.jpg)
 
 
 ### Theme: [BsxDarkSpace1](https://github.com/blackosx/BsxDarkSpace1)
