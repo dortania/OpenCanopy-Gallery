@@ -8,7 +8,7 @@
 - Follow ➤ [Background-Resizer](https://github.com/chris1111/Background-Resizer)
 
 
-## Some examples of themes ⬇︎
+## Some examples of themes ⬇︎ Click on image enlarge
 
 - FlatMonterey
 <img width="600" alt="1" src="https://raw.githubusercontent.com/chris1111/My-Simple-OC-Themes/master/View%20Boot%200.7/FlatMonterey.png">
