@@ -7,6 +7,8 @@
 ### Tool to resize Background images for use with OpenCanopyGenerator 
 - Follow ➤ [Background-Resizer](https://github.com/chris1111/Background-Resizer)
 
+### Issue with any themes from chris111 ➤ [Open issue](https://github.com/chris1111/My-Simple-OC-Themes/issues) or ➤ [Discussions](https://github.com/chris1111/My-Simple-OC-Themes/discussions)
+
 
 ## Some examples of themes ⬇︎ Click on image to enlarge
 
