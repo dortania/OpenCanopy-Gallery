@@ -74,6 +74,14 @@
 
 ![](https://raw.githubusercontent.com/blackosx/BsxRedOldApple/main/preview_ui.jpg)
 
+### Theme: [BsxDebossBluePlain](https://github.com/blackosx/BsxDebossBluePlain)
+
+![](https://raw.githubusercontent.com/blackosx/BsxDebossBluePlain/main/preview_ui.jpg)
+
+### Theme: [BsxOsIcons3D](https://github.com/blackosx/BsxOsIcons3D)
+
+![](https://raw.githubusercontent.com/blackosx/BsxOsIcons3D/main/preview_ui.jpg)
+
 
 
 ## OpenCanopyIcons Repo
