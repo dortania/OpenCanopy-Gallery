@@ -1,5 +1,8 @@
 # chris1111 Gallery
-- Themes for OpenCore 0.7.0 and Higher
+
+Themes|Description
+:----|:----
+For OpenCore|0.7.0 and Higher
 
 ### How to create are own Theme
 - Follow ➤ [OpenCanopy-Generator](https://github.com/chris1111/OpenCanopy-Generator)
@@ -276,7 +279,7 @@
 - View Boot screen [Pixels](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Pixels.png) Download ➤ [Pixels](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Pixels.zip)
 - View Boot screen [Quintessence](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Quintessence.png) Download ➤ [Quintessence](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Quintessence.zip)
 - View Boot screen [RealSteel](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/RealSteel.png) Download ➤ [RealSteel](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/RealSteel.zip) 
-- View Boot screen [Rock&Steel](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Rock%26Steel.png) Download ➤ [Rock&Steel](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Rock%26Steel.zip)
+- View Boot screen [Rock-Steel](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Rock-Steel.png) Download ➤ [Rock-Steel](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Rock-Steel.zip)
 - View Boot screen [Simple](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Simple.png) Download ➤ [Simple](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Simple.zip)
 - View Boot screen [SilentNight](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/SilentNight.png) Download ➤ [SilentNight](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/SilentNight.zip)
 - View Boot screen [Shelter](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Shelter1.png) Download ➤ [Shelter](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Shelter.zip)
