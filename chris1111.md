@@ -16,6 +16,36 @@ For OpenCore|0.7.0 and Higher
 
 ## Some examples of themes ⬇︎ Click on image to enlarge
 
+ - Flavours-AppleMonterey
+ <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-AppleMonterey.png">
+ 
+  - Flavours-AppleDisk
+ <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-AppleDisk.png">
+ 
+ - Flavours-Beauty
+ <img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Background/Flavours-Beauty.png">
+ 
+ - Flavours-Energy
+<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Background/Flavours-Energy.png">
+ 
+ - Flavours-macIOS
+<img width="600" alt="1" src="https://user-images.githubusercontent.com/6248794/153307145-4e64dc83-2675-48dd-9bf5-a1728996584e.png">
+ 
+- Flavours-X
+<img width="600" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-X.png">
+  
+- MinimalmacOS12
+<img width="600" alt="1" src="https://raw.githubusercontent.com/chris1111/My-Simple-OC-Themes/master/View%20Boot%200.7/MinimalmacOS12.png">
+  
+- Flavours-Box
+<img width="600" alt="1" src="https://raw.githubusercontent.com/chris1111/My-Simple-OC-Themes/master/View%20Boot%200.7/Flavours-Box.png">
+
+- Flavours-Cyborg
+<img width="600" alt="1" src="https://raw.githubusercontent.com/chris1111/My-Simple-OC-Themes/master/View%20Boot%200.7/Flavours-Cyborg.png">
+
+- MinimalMac
+<img width="600" alt="1" src="https://raw.githubusercontent.com/chris1111/My-Simple-OC-Themes/master/View%20Boot%200.7/MinimalMac.png">
+
 - FlatMonterey
 <img width="600" alt="1" src="https://raw.githubusercontent.com/chris1111/My-Simple-OC-Themes/master/View%20Boot%200.7/FlatMonterey.png">
 
@@ -184,7 +214,7 @@ For OpenCore|0.7.0 and Higher
 - CollorBeauty
 <img width="600" alt="5" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/CollorBeauty.png">
   
-
+  
 
 ### Usage Download - ⬇︎ - 
 #### View Boot screen and Downloads Themes of your choice, for OpenCore 0.7.0 and higher
@@ -209,7 +239,6 @@ For OpenCore|0.7.0 and Higher
 - View Boot screen [CoolBoot](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/CoolBoot.png) Download ➤ [CoolBoot](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/CoolBoot.zip)
 - View Boot screen [Coloryst](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Coloryst.png) Download ➤ [Coloryst](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Coloryst.zip)
 - View Boot screen [CollorBeauty](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/CollorBeauty.png) Download ➤ [CollorBeauty](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/CollorBeauty.zip)
-- View Boot screen [Cyborg](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Cyborg.png) Download ➤ [Cyborg](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Cyborg.zip)
 - View Boot screen [Darker](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Darker.png) Download ➤ [Darker](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Darker.zip)
 - View Boot screen [DarkGreen](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/DarkGreen.png) Download ➤ [DarkGreen](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/DarkGreen.zip)
 - View Boot screen [DarkPurpleMetal](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/DarkPurpleMetal.png) Download ➤ [DarkPurpleMetal](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/DarkPurpleMetal.zip)
@@ -226,10 +255,17 @@ For OpenCore|0.7.0 and Higher
 - View Boot screen [FlatMonterey](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/FlatMonterey.png) Download ➤ [FlatMonterey](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/FlatMonterey.zip)
 - View Boot screen [FlatRiver](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/FlatRiver.png) Download ➤ [FlatRiver](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/FlatRiver.zip)
 - View Boot screen [Flavours](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours.png) Download ➤ [Flavours](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours.zip)
+- View Boot screen [Flavours-AppleDisk](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-AppleDisk.png) Download ➤ [Flavours-AppleDisk](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-AppleDisk.zip)
+- View Boot screen [Flavours-AppleMonterey](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Boot%200.7/Flavours-AppleMonterey.png) Download ➤ [Flavours-AppleMonterey](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-AppleMonterey.zip)
 - View Boot screen [Flavours-Collor](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Collor.png) Download ➤ [Flavours-Collor](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-Collor.zip)
+- View Boot screen [Flavours-Cyborg](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Cyborg.png) Download ➤ [Flavours-Cyborg](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-Cyborg.zip)
 - View Boot screen [Flavours-B](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-B.png) Download ➤ [Flavours-B](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-B.zip)
+- View Boot screen [Flavours-Beauty](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Background/Flavours-Beauty.png) Download ➤ [Flavours-Beauty](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-Beauty.zip)
+- View Boot screen [Flavours-Box](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Box.png) Download ➤ [Flavours-Box](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-Box.zip)
 - View Boot screen [Flavours-Badge](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Badge.png) Download ➤ [Flavours-Badge](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-Badge.zip)
 - View Boot screen [Flavours-Classy](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Classy.png) Download ➤ [Flavours-Classy](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-Classy.zip)
+- View Boot screen [Flavours-Energy](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/View%20Background/Flavours-Energy.png) Download ➤ [Flavours-Energy](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-Energy.zip)
+- View Boot screen [Flavours-macIOS](https://user-images.githubusercontent.com/6248794/153307145-4e64dc83-2675-48dd-9bf5-a1728996584e.png) Download ➤ [Flavours-macIOS](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-macIOS.zip)
 - View Boot screen [Flavours-Metal](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Metal.png) Download ➤ [Flavours-Metal](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-Metal.zip)
 - View Boot screen [Flavours-SSD](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-SSD.png) Download ➤ [Flavours-SSD](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-SSD.zip)
 - View Boot screen [Flavours-Tech](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Flavours-Tech.png) Download ➤ [Flavours-Tech](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Flavours-Tech.zip)
@@ -260,6 +296,8 @@ For OpenCore|0.7.0 and Higher
 - View Boot screen [MechDrive](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/MechDrive.png) Download ➤ [MechDrive](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/MechDrive.zip)
 - View Boot screen [MetalBlack](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/MetalBlack.png) Download ➤ [MetalBlack](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/MetalBlack.zip)
 - View Boot screen [Minimal](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Minimal.png) Download ➤ [Minimal](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Minimal.zip)
+- View Boot screen [MinimalMac](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/MinimalMac.png) Download ➤ [MinimalMac](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/MinimalMac.zip)
+- View Boot screen [MinimalmacOS12](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/MinimalmacOS12.png) Download ➤ [MinimalmacOS12](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/MinimalmacOS12.zip)
 - View Boot screen [MotherShip](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/MotherShip.png) Download ➤ [MotherShip](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/MotherShip.zip)
 - View Boot screen [Monterey](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Monterey.png) Download ➤ [Monterey](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Monterey.zip)
 - View Boot screen [Multi](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Multi.png) Download ➤ [Multi](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Multi.zip)
@@ -294,19 +332,20 @@ For OpenCore|0.7.0 and Higher
 - View Boot screen [Wall](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/Wall.png) Download ➤ [Wall](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/Wall.zip)
 - View Boot screen [WhyNot](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/WhyNot.png) Download ➤ [WhyNot](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/WhyNot.zip)
 
+
 ## ⬇︎ - Download Background Collections: OpenCore 0.7.0 and Higher - ⬇︎
 
-- Background ➤ Collections [2560x1440](Background2560x1440/)
-- Background ➤ Collections [1920x1200](Background1920x1200/)
-- Background ➤ Collections [1920x1080](Background1920x1080/)
-- Background ➤ Collections [1600x900](Background1600x900/)
-- Background ➤ Collections [1366x768](Background1366x768/)
-- Background ➤ Collections [1024x768](Background1024x768/)
-- Background ➤ Collections [1440x900](Background1440x900/)
-- Background ➤ Collections [1440x1080](Background1440x1080/)
-- Background ➤ Collections [1600x1200](Background1600x1200/)
-- Background ➤ Collections [1680x1050](Background1680x1050/)
-- Background ➤ Collections [2560x1600](Background2560x1600/)
+- Background ➤ Collections [2560x1440](Background2560x1440/) = ➤ [5120 × 2880]
+- Background ➤ Collections [1920x1200](Background1920x1200/) = ➤ [3840 × 2400]
+- Background ➤ Collections [1920x1080](Background1920x1080/) = ➤ [3840 × 2160]
+- Background ➤ Collections [1600x900](Background1600x900/)  = ➤ [3200 × 1800]
+- Background ➤ Collections [1366x768](Background1366x768/) = ➤ [2732x1536]
+- Background ➤ Collections [1024x768](Background1024x768/) = ➤ [1024x768]
+- Background ➤ Collections [1440x900](Background1440x900/) = ➤ [2880 × 1800]
+- Background ➤ Collections [1440x1080](Background1440x1080/) = ➤ [2880 × 2160]
+- Background ➤ Collections [1600x1200](Background1600x1200/) = ➤ [3200 × 2400]
+- Background ➤ Collections [1680x1050](Background1680x1050/) = ➤ [3360 × 2100]
+- Background ➤ Collections [1280x800](Background1280x800/) = ➤ [2560x1600]
 
 
 ### Setup PickerVariant config.plist (OnLight themes as exemple)  ☞ [See config.plist](https://user-images.githubusercontent.com/6248794/118682984-f5ce0e00-b7ce-11eb-8e3c-52055b213607.png) 
